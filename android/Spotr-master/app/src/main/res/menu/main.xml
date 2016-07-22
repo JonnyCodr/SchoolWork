@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity" >
+
+    <!--<item-->
+        <!--android:id="@+id/menu_item_share"-->
+        <!--app:showAsAction="ifRoom"-->
+        <!--android:title="Share"-->
+        <!--android:icon="@drawable/abc_ic_menu_share_mtrl_alpha"-->
+        <!--android:actionProviderClass="android.widget.ShareActionProvider" />-->
+
+    <item
+        android:id="@+id/menu_item_new_photo"
+        app:showAsAction="ifRoom"
+        android:title="@string/new_spot"
+        android:icon="@drawable/ic_action_camera"
+        android:actionProviderClass="android.widget.ShareActionProvider" />
+
+    <item
+        android:id="@+id/menu_import_photo"
+        app:showAsAction="ifRoom"
+        android:title="@string/import_photo"
+        android:icon="@drawable/ic_action_new_picture"
+        android:actionProviderClass="android.widget.ShareActionProvider" />
+
+    <item android:id="@+id/menu_rules"
+          android:title="@string/menu_rules"
+          android:orderInCategory="90"
+          app:showAsAction="never" />
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

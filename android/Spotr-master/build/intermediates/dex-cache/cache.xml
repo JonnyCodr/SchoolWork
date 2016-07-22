@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/twitter4j-stream-4.0.2-de1f453b4a074f9defedaeedd307f507b4cbde77.jar"
+        jar="/Users/matthewmcguire/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-stream/4.0.2/c8ba9a8013b7e1d01a4ee9066d681a228bbb05/twitter4j-stream-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="00c8ba9a8013b7e1d01a4ee9066d681a228bbb05"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/twitter4j-async-4.0.2-82d243e5b0805c2323c01efdfec34683211de6cd.jar"
+        jar="/Users/matthewmcguire/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-async/4.0.2/bcd25b8f3e6ec54a947fcde5eca72ab0c9fc1389/twitter4j-async-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="bcd25b8f3e6ec54a947fcde5eca72ab0c9fc1389"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-98942d313740e1f060a242e345bca1106f75d2c5.jar"
+        jar="/usr/local/Cellar/android-sdk/23.0.2/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/twitter4j-core-4.0.2-f563acda0132c976589ea463241d8fefcb168943.jar"
+        jar="/Users/matthewmcguire/.gradle/caches/modules-2/files-2.1/org.twitter4j/twitter4j-core/4.0.2/6555e7c45f5db0006823731b2ddb536d481e11d1/twitter4j-core-4.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6555e7c45f5db0006823731b2ddb536d481e11d1"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/commons-codec-1.10-5ea83cf71393190cdf2ff32c0915ed945f423b3f.jar"
+        jar="/Users/matthewmcguire/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.10/4b95f4897fa13f2cd904aee711aeafc0c5295cd8/commons-codec-1.10.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b95f4897fa13f2cd904aee711aeafc0c5295cd8"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/classes-82618bd5e2fec60ffb9165a49ce82eb7d24e04c2.jar"
+        jar="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/classes-6dd395f5f6ba07cb671d2045d7d5daad72cd64d8.jar"
+        jar="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136"/>
+    <item
+        dex="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-a47c1ec2c9f1e3c976d06c70c10ccc36db1e28f6.jar"
+        jar="/Users/matthewmcguire/Documents/MSUD/Fall_14/CS_390/Spotr/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+
+</pre-dex-items>
