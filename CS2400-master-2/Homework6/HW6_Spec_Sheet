@@ -1,0 +1,23 @@
+HW6 – Assembly Language Programming – due date October 20th
+-------------------------------------------------------------
+
+1.	The objective of the assignment is to implement a program that uses jump table and a stack to call in a sequence several subroutines.  In the stack every subroutine saves the used registers (including the status register) and the program counter.
+
+	The program implements light weight cryptography based on XOR operation and permutation.
+ 
+	Short description of the program functions: 
+	A message is given as an ASCII string. Every word (4 ASCII symbols) is encrypted by symbol permutation (byte 1 and 4 are swapped, and also bytes 2 and 3) and bitwise XOR operation with a 32-bit key.  As a result encrypted message is produced.
+	The same processing (bitwise XOR and permutation) is performed over every word and decrypted message is produced. 
+	At the end the program compares the original and the decrypted message to check the correctness of the “encryption” algorithm.  
+The program should be written in separate subroutines, which have to be called by jump table techniques.
+
+	The structure of the program is student choice but stack operations have to be implemented. Here is one exemplary structure:
+•	Select a message, for example: 
+		” Yesterday, all my troubles seemed so far away Now it looks as though they're here to stay Oh, I believe in yesterday”;
+•	The main subroutine calls in sequence the encryption subroutine, the decryption subroutine and the compare subroutine;
+•	The encryption subroutine calls a subroutine that prints the message; after that calls the permutation subroutine the XOR subroutine. 
+•	The permutation subroutine and the XOR subroutine call the print subroutine that prints the processed word;
+•	. The decryption subroutine calls a subroutine that prints the message; after that calls the permutation subroutine and the XOR subroutine; 
+•	The permutation subroutine and the XOR subroutine call the print subroutine that prints the processed word;
+•	The comparison subroutine calls subroutine to print message(s).
+
